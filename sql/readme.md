@@ -9,7 +9,7 @@
 
 4. 新建pycharm项目sql_demo,在settings-project-python interpreter中添加 PyMySQL
 
-   ![QQ截图20220429111033](D:\my_file\CS\github记录\学习记录3\QQ截图20220429111033.png)
+   ![QQ截图20220429111033](https://github.com/yingqiaosong/python_learn/blob/main/image/QQ%E6%88%AA%E5%9B%BE20220429111033.png)
 
 5. 尝试在py代码中输入import pymysql,无异常则连接成功
 
